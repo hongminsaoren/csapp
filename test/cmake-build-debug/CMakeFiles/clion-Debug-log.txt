@@ -1,0 +1,10 @@
+"D:\IDE\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/IDE/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Study\CSAPP\test -B D:\Study\CSAPP\test\cmake-build-debug
+-- The C compiler identification is GNU 6.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Study/CSAPP/test/cmake-build-debug
